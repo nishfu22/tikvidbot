@@ -20,7 +20,7 @@ You can use the latest [docker hub image](https://hub.docker.com/r/thundersquare
 ```bash
 docker run --rm \
 -e BOT_NAME="tikvidbot" \
--e BOT_TOKEN="your:token" \
+-e BOT_TOKEN="1906642537:AAEZC4McG1W5k3PIkyfzWp9-U9HIv-0eSLU" \
 -e HTTP_AGENT="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/605.1.15 (KHTML, like Gecko)" \
 thundersquared/tikvidbot
 ```
